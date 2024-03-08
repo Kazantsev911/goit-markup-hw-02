@@ -58,7 +58,7 @@ ul {
   color: #404bbf;
 }
 
-.header-addres-link:active {
+.header-addres-link:focus {
   color: #404bbf;
 }
 
