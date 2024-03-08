@@ -55,11 +55,11 @@ ul {
 }
 
 .header-addres-link:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .header-addres-link:active {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .address {
@@ -115,6 +115,10 @@ ul {
   color: #434455;
 }
 
+.team {
+  background-color: #f4f4fd;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -122,6 +126,11 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.team-item {
+  background-color: #ffffff;
 }
 
 .team-name {
@@ -147,8 +156,8 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .portfolio-list {
