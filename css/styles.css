@@ -55,7 +55,11 @@ ul {
 }
 
 .header-addres-link:hover {
-  background: #404bbf;
+  background-color: #404bbf;
+}
+
+.header-addres-link:active {
+  background-color: #404bbf;
 }
 
 .address {
@@ -145,7 +149,14 @@ ul {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+}
+
+.portfolio-list {
   background-color: #f4f4fd;
+}
+
+.portfolio-item {
+  background-color: #ffffff;
 }
 
 .portfolio-name {
